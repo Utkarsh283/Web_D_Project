@@ -7,7 +7,6 @@ This project is a real estate website built using HTML, CSS, and JavaScript. It 
 - Responsive design for mobile, tablet, and desktop.
 - Property listing with images, descriptions, and pricing.
 - Search functionality to find properties based on location, price range, etc.
-- Interactive maps to show property locations.
 - Contact form for inquiries.
 - User authentication for saving favorite properties (optional).
 
@@ -16,7 +15,7 @@ This project is a real estate website built using HTML, CSS, and JavaScript. It 
 - HTML
 - CSS (Sass/SCSS recommended for large projects)
 - JavaScript (jQuery for simplicity or a modern framework like React/Vue/Angular for more complex interactions)
-- Google Maps API (for integrating maps)
+
 
 ## Getting Started
 
@@ -25,14 +24,5 @@ This project is a real estate website built using HTML, CSS, and JavaScript. It 
 3. Modify the HTML, CSS, and JavaScript files to customize the website for your needs.
 4. Add your own property listings and images.
 
-## Deployment
 
-- Host the website on a web server or use a platform like GitHub Pages, Netlify, or Vercel for deployment.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
